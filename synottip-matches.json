@@ -1,0 +1,418 @@
+{
+    "matches": [
+        {
+            "title": "D\u00e1nsko - Norsko",
+            "date": "14.05.24 16:20",
+            "odds": {
+                "D\u00e1nsko": "2,03",
+                "Rem\u00edza": "4,20",
+                "Norsko": "3,34"
+            }
+        },
+        {
+            "title": "Kazachst\u00e1n - Loty\u0161sko",
+            "date": "14.05.24 16:20",
+            "odds": {
+                "Kazachst\u00e1n": "4,80",
+                "Rem\u00edza": "4,64",
+                "Loty\u0161sko": "1,65"
+            }
+        },
+        {
+            "title": "Kanada - Rakousko",
+            "date": "14.05.24 20:20",
+            "odds": {
+                "Kanada": "1,03",
+                "Rem\u00edza": "21,56",
+                "Rakousko": "61,00"
+            }
+        },
+        {
+            "title": "Polsko - Francie",
+            "date": "14.05.24 20:20",
+            "odds": {
+                "Polsko": "5,12",
+                "Rem\u00edza": "4,95",
+                "Francie": "1,58"
+            }
+        },
+        {
+            "title": "CA Penarol Montevideo - Atl\u00e9tico Mineiro MG",
+            "date": "15.05.24 00:00",
+            "odds": {
+                "CA Penarol Montevideo": "3,05",
+                "Rem\u00edza": "3,10",
+                "Atl\u00e9tico Mineiro MG": "2,38"
+            }
+        },
+        {
+            "title": "LDU Quito - Junior FC",
+            "date": "15.05.24 00:00",
+            "odds": {
+                "LDU Quito": "1,48",
+                "Rem\u00edza": "4,22",
+                "Junior FC": "6,37"
+            }
+        },
+        {
+            "title": "Talleres Cordoba - Cobresal",
+            "date": "15.05.24 00:00",
+            "odds": {
+                "Talleres Cordoba": "1,20",
+                "Rem\u00edza": "6,30",
+                "Cobresal": "12,62"
+            }
+        },
+        {
+            "title": "River Plate (ARG) - Libertad Asuncion",
+            "date": "15.05.24 02:30",
+            "odds": {
+                "River Plate (ARG)": "1,37",
+                "Rem\u00edza": "4,87",
+                "Libertad Asuncion": "7,56"
+            }
+        },
+        {
+            "title": "Millonarios FC - CD Palestino",
+            "date": "15.05.24 04:00",
+            "odds": {
+                "Millonarios FC": "1,48",
+                "Rem\u00edza": "4,04",
+                "CD Palestino": "6,75"
+            }
+        },
+        {
+            "title": "Racing Club Montevideo - Nacional Asuncion",
+            "date": "15.05.24 00:00",
+            "odds": {
+                "Racing Club Montevideo": "1,70",
+                "Rem\u00edza": "3,44",
+                "Nacional Asuncion": "4,75"
+            }
+        },
+        {
+            "title": "Defensa y Justicia - Independiente Medellin",
+            "date": "",
+            "odds": {
+                "Defensa y Justicia": "1,87",
+                "Rem\u00edza": "3,34",
+                "Independiente Medellin": "3,90"
+            }
+        },
+        {
+            "title": "Sportivo Ameliano - Rayo Zuliano",
+            "date": "15.05.24 02:00",
+            "odds": {
+                "Sportivo Ameliano": "1,08",
+                "Rem\u00edza": "8,42",
+                "Rayo Zuliano": "23,02"
+            }
+        },
+        {
+            "title": "Corinthians SP - Argentinos Juniors",
+            "date": "15.05.24 02:30",
+            "odds": {
+                "Corinthians SP": "1,77",
+                "Rem\u00edza": "3,18",
+                "Argentinos Juniors": "4,76"
+            }
+        },
+        {
+            "title": "CA Nacional Potosi - Sportivo Trinidense",
+            "date": "15.05.24 04:00",
+            "odds": {
+                "CA Nacional Potosi": "1,22",
+                "Rem\u00edza": "5,87",
+                "Sportivo Trinidense": "10,18"
+            }
+        },
+        {
+            "title": "Mlad\u00e1 Boleslav - 1. FC Slov\u00e1cko",
+            "date": "14.05.24 17:00",
+            "odds": {
+                "Mlad\u00e1 Boleslav": "1,86",
+                "Rem\u00edza": "3,85",
+                "1. FC Slov\u00e1cko": "4,14"
+            }
+        },
+        {
+            "title": "Sparta Praha - Ban\u00edk Ostrava",
+            "date": "14.05.24 19:30",
+            "odds": {
+                "Sparta Praha": "1,33",
+                "Rem\u00edza": "5,88",
+                "Ban\u00edk Ostrava": "8,47"
+            }
+        },
+        {
+            "title": "Tottenham Hotspur - Manchester City",
+            "date": "14.05.24 21:00",
+            "odds": {
+                "Tottenham Hotspur": "7,64",
+                "Rem\u00edza": "6,08",
+                "Manchester City": "1,38"
+            }
+        },
+        {
+            "title": "CA Osasuna - RCD Mallorca",
+            "date": "14.05.24 19:30",
+            "odds": {
+                "CA Osasuna": "2,80",
+                "Rem\u00edza": "3,04",
+                "RCD Mallorca": "2,91"
+            }
+        },
+        {
+            "title": "Real Madrid - Deportivo Alaves",
+            "date": "14.05.24 21:30",
+            "odds": {
+                "Real Madrid": "1,24",
+                "Rem\u00edza": "7,01",
+                "Deportivo Alaves": "12,75"
+            }
+        },
+        {
+            "title": "Girona FC - Villarreal CF",
+            "date": "14.05.24 22:00",
+            "odds": {
+                "Girona FC": "1,72",
+                "Rem\u00edza": "4,66",
+                "Villarreal CF": "4,47"
+            }
+        },
+        {
+            "title": "SD Eibar - FC Barcelona",
+            "date": "14.05.24 18:00",
+            "odds": {
+                "SD Eibar": "21,82",
+                "Rem\u00edza": "12,24",
+                "FC Barcelona": "1,02"
+            }
+        },
+        {
+            "title": "Atalanta U23 - Calcio Catania",
+            "date": "14.05.24 20:30",
+            "odds": {
+                "Atalanta U23": "2,44",
+                "Rem\u00edza": "3,00",
+                "Calcio Catania": "2,88"
+            }
+        },
+        {
+            "title": "Juventus Tur\u00edn U23 - Casertana FC",
+            "date": "14.05.24 20:30",
+            "odds": {
+                "Juventus Tur\u00edn U23": "2,25",
+                "Rem\u00edza": "2,95",
+                "Casertana FC": "3,28"
+            }
+        },
+        {
+            "title": "Perugia - Carrarese Calcio",
+            "date": "14.05.24 20:30",
+            "odds": {
+                "Perugia": "2,18",
+                "Rem\u00edza": "2,91",
+                "Carrarese Calcio": "3,47"
+            }
+        },
+        {
+            "title": "Taranto FC - LR Vicenza",
+            "date": "14.05.24 20:30",
+            "odds": {
+                "Taranto FC": "2,27",
+                "Rem\u00edza": "2,97",
+                "LR Vicenza": "3,19"
+            }
+        },
+        {
+            "title": "US Triestina - Benevento",
+            "date": "14.05.24 21:00",
+            "odds": {
+                "US Triestina": "2,34",
+                "Rem\u00edza": "2,97",
+                "Benevento": "3,06"
+            }
+        },
+        {
+            "title": "Glasgow Rangers - Dundee FC",
+            "date": "14.05.24 20:30",
+            "odds": {
+                "Glasgow Rangers": "1,13",
+                "Rem\u00edza": "8,91",
+                "Dundee FC": "17,74"
+            }
+        },
+        {
+            "title": "Partick Thistle - Raith Rovers",
+            "date": "14.05.24 20:45",
+            "odds": {
+                "Partick Thistle": "2,16",
+                "Rem\u00edza": "3,42",
+                "Raith Rovers": "3,41"
+            }
+        },
+        {
+            "title": "Dumbarton FC - The Spartans FC",
+            "date": "14.05.24 20:30",
+            "odds": {
+                "Dumbarton FC": "2,29",
+                "Rem\u00edza": "3,59",
+                "The Spartans FC": "2,67"
+            }
+        },
+        {
+            "title": "FC Emmen - FC Dordrecht",
+            "date": "14.05.24 18:45",
+            "odds": {
+                "FC Emmen": "2,33",
+                "Rem\u00edza": "3,84",
+                "FC Dordrecht": "2,78"
+            }
+        },
+        {
+            "title": "De Graafschap - ADO Den Haag",
+            "date": "14.05.24 21:00",
+            "odds": {
+                "De Graafschap": "2,22",
+                "Rem\u00edza": "3,67",
+                "ADO Den Haag": "3,05"
+            }
+        },
+        {
+            "title": "Barnsley rez. - Burnley rez.",
+            "date": "14.05.24 14:00",
+            "odds": {
+                "Barnsley rez.": "1,25",
+                "Rem\u00edza": "6,88",
+                "Burnley rez.": "6,12"
+            }
+        },
+        {
+            "title": "Bristol City rez. - Fleetwood Town rez.",
+            "date": "14.05.24 14:00",
+            "odds": {
+                "Bristol City rez.": "1,74",
+                "Rem\u00edza": "4,29",
+                "Fleetwood Town rez.": "3,30"
+            }
+        },
+        {
+            "title": "Uni\u00f3n Santa Fe - Banfield",
+            "date": "14.05.24 02:00",
+            "odds": {
+                "Uni\u00f3n Santa Fe": "2,43",
+                "Rem\u00edza": "2,71",
+                "Banfield": "3,46"
+            }
+        },
+        {
+            "title": "All Boys - Arsenal Sarand\u00ed",
+            "date": "14.05.24 02:05",
+            "odds": {
+                "All Boys": "2,60",
+                "Rem\u00edza": "2,66",
+                "Arsenal Sarand\u00ed": "3,04"
+            }
+        },
+        {
+            "title": "Defensores Belgrano - Col\u00f3n SF",
+            "date": "14.05.24 02:10",
+            "odds": {
+                "Defensores Belgrano": "3,20",
+                "Rem\u00edza": "2,89",
+                "Col\u00f3n SF": "2,31"
+            }
+        },
+        {
+            "title": "Estudiantes LP rez. - Tigre rez.",
+            "date": "14.05.24 20:00",
+            "odds": {
+                "Estudiantes LP rez.": "1,51",
+                "Rem\u00edza": "3,81",
+                "Tigre rez.": "5,36"
+            }
+        },
+        {
+            "title": "Godoy Cruz rez. - CA Central Cordoba SE rez.",
+            "date": "14.05.24 20:00",
+            "odds": {
+                "Godoy Cruz rez.": "2,14",
+                "Rem\u00edza": "2,89",
+                "CA Central Cordoba SE rez.": "3,38"
+            }
+        },
+        {
+            "title": "San Lorenzo rez. - Belgrano Cordoba rez.",
+            "date": "14.05.24 20:00",
+            "odds": {
+                "San Lorenzo rez.": "2,64",
+                "Rem\u00edza": "3,36",
+                "Belgrano Cordoba rez.": "2,31"
+            }
+        },
+        {
+            "title": "FC Van - FC West Armenia",
+            "date": "14.05.24 15:00",
+            "odds": {
+                "FC Van": "2,57",
+                "Rem\u00edza": "3,21",
+                "FC West Armenia": "2,44"
+            }
+        },
+        {
+            "title": "BKMA Yerevan - Pyunik Yerevan",
+            "date": "14.05.24 17:00",
+            "odds": {
+                "BKMA Yerevan": "11,41",
+                "Rem\u00edza": "6,62",
+                "Pyunik Yerevan": "1,15"
+            }
+        },
+        {
+            "title": "Al Khalidiyah - Al Hala",
+            "date": "14.05.24 18:30",
+            "odds": {
+                "Al Khalidiyah": "1,55",
+                "Rem\u00edza": "3,94",
+                "Al Hala": "5,28"
+            }
+        },
+        {
+            "title": "Al-Najma Manama - Al-Muharraq SC",
+            "date": "14.05.24 18:30",
+            "odds": {
+                "Al-Najma Manama": "4,02",
+                "Rem\u00edza": "3,71",
+                "Al-Muharraq SC": "1,75"
+            }
+        },
+        {
+            "title": "FC Universitario de Vinto - Royal Pari FC",
+            "date": "14.05.24 01:00",
+            "odds": {
+                "FC Universitario de Vinto": "1,57",
+                "Rem\u00edza": "3,74",
+                "Royal Pari FC": "5,15"
+            }
+        },
+        {
+            "title": "Sao Paulo SP - Fluminense RJ",
+            "date": "14.05.24 01:00",
+            "odds": {
+                "Sao Paulo SP": "1,68",
+                "Rem\u00edza": "3,56",
+                "Fluminense RJ": "5,14"
+            }
+        },
+        {
+            "title": "Ava\u00ed SC - CRB AL",
+            "date": "15.05.24 00:00",
+            "odds": {
+                "Ava\u00ed SC": "2,35",
+                "Rem\u00edza": "2,92",
+                "CRB AL": "3,10"
+            }
+        }
+    ]
+}
